@@ -19,3 +19,5 @@
     "noFallthroughCasesInSwitch": false
   }
 }
+
+//Archivo de configuración para decirle a TypeScript como queremos que funcione
